@@ -1,0 +1,14 @@
+name: rfc_6531
+version: 1.0.0
+description: Email address regular expression as close as possible to the specification in RFC 6531.
+repository: https://github.com/MichaelDark/rfc_6531
+topics:
+- validation
+- email
+- rfc
+- rfc-6531
+environment:
+  sdk: ^3.2.0
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
